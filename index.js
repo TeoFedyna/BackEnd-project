@@ -1,0 +1,1 @@
+const dato = 25
